@@ -7,15 +7,15 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tinywasm/chart/bar"
-	"github.com/tinywasm/chart/line"
-	"github.com/tinywasm/chart/pie"
-	"github.com/tinywasm/font"
-	"github.com/tinywasm/pdf"
+	"webtyp.com/chart/bar"
+	"webtyp.com/chart/line"
+	"webtyp.com/chart/pie"
+	"webtyp.com/font"
+	"webtyp.com/pdf"
 )
 
 func getFontDir(t *testing.T) string {
-	cmd := exec.Command("go", "list", "-m", "-f", "{{.Dir}}", "github.com/tinywasm/pdf")
+	cmd := exec.Command("go", "list", "-m", "-f", "{{.Dir}}", "webtyp.com/pdf")
 	out, err := cmd.Output()
 	if err != nil {
 		t.Fatalf("failed to find pdf module directory: %v", err)

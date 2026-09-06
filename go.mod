@@ -1,18 +1,18 @@
-module github.com/tinywasm/chart
+module webtyp.com/chart
 
 go 1.25.2
 
 require (
-	github.com/tinywasm/color v0.1.1
-	github.com/tinywasm/fmt v0.25.7
-	github.com/tinywasm/font v0.0.4
-	github.com/tinywasm/pdf v0.1.2
+	webtyp.com/color v0.1.1
+	webtyp.com/fmt v0.25.7
+	webtyp.com/font v0.0.4
+	webtyp.com/pdf v0.1.2
 )
 
 require (
-	github.com/tinywasm/fetch v0.1.24 // indirect
-	github.com/tinywasm/json v0.5.21 // indirect
-	github.com/tinywasm/model v0.1.7 // indirect
-	github.com/tinywasm/time v0.5.4 // indirect
-	github.com/tinywasm/unixid v0.2.23 // indirect
+	webtyp.com/fetch v0.1.24 // indirect
+	webtyp.com/json v0.5.21 // indirect
+	webtyp.com/model v0.1.7 // indirect
+	webtyp.com/time v0.5.4 // indirect
+	webtyp.com/unixid v0.2.23 // indirect
 )

@@ -1,9 +1,9 @@
 package bar
 
 import (
-	"github.com/tinywasm/color"
-	. "github.com/tinywasm/fmt"
-	"github.com/tinywasm/pdf"
+	"webtyp.com/color"
+	. "webtyp.com/fmt"
+	"webtyp.com/pdf"
 )
 
 type Chart struct {

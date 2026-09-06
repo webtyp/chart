@@ -3,8 +3,8 @@ package pie
 import (
 	"math"
 
-	"github.com/tinywasm/color"
-	"github.com/tinywasm/pdf"
+	"webtyp.com/color"
+	"webtyp.com/pdf"
 )
 
 type Chart struct {
