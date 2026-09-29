@@ -6,7 +6,7 @@ require (
 	webtyp.com/color v0.1.2
 	webtyp.com/fmt v1.0.0
 	webtyp.com/font v0.0.5
-	webtyp.com/pdf v0.1.10
+	webtyp.com/pdf v0.1.11
 )
 
 require (
