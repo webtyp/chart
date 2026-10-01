@@ -12,7 +12,7 @@ require (
 require (
 	webtyp.com/disk v0.1.0 // indirect
 	webtyp.com/fetch v0.1.28 // indirect
-	webtyp.com/files v0.0.3 // indirect
+	webtyp.com/files v0.0.4 // indirect
 	webtyp.com/json v0.5.27 // indirect
 	webtyp.com/model v0.1.9 // indirect
 	webtyp.com/time v0.5.7 // indirect
