@@ -6,10 +6,11 @@ require (
 	webtyp.com/color v0.1.2
 	webtyp.com/fmt v1.0.0
 	webtyp.com/font v0.0.5
-	webtyp.com/pdf v0.1.20
+	webtyp.com/pdf v0.1.30
 )
 
 require (
+	webtyp.com/calendar v0.1.0 // indirect
 	webtyp.com/disk v0.1.0 // indirect
 	webtyp.com/escape v0.1.0 // indirect
 	webtyp.com/fetch v0.1.29 // indirect
@@ -18,6 +19,6 @@ require (
 	webtyp.com/json v0.5.29 // indirect
 	webtyp.com/lang v0.1.7 // indirect
 	webtyp.com/model v0.2.4 // indirect
-	webtyp.com/time v0.5.7 // indirect
-	webtyp.com/unixid v0.3.0 // indirect
+	webtyp.com/time v0.6.2 // indirect
+	webtyp.com/unixid v0.3.1 // indirect
 )
