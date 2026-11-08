@@ -17,7 +17,7 @@ require (
 	webtyp.com/filepath v0.1.0 // indirect
 	webtyp.com/files v0.0.4 // indirect
 	webtyp.com/json v0.5.40 // indirect
-	webtyp.com/lang v0.1.14 // indirect
+	webtyp.com/lang v0.1.15 // indirect
 	webtyp.com/model v0.2.12 // indirect
 	webtyp.com/time v0.6.4 // indirect
 	webtyp.com/unixid v0.3.1 // indirect
