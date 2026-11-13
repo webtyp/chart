@@ -4,7 +4,7 @@ go 1.26.8
 
 require (
 	webtyp.com/color v0.1.2
-	webtyp.com/fmt v1.0.0
+	webtyp.com/fmt v1.0.1
 	webtyp.com/font v0.0.5
 	webtyp.com/pdf v0.1.30
 )
